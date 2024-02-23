@@ -182,4 +182,4 @@ visible = false
 mesh = SubResource("BoxMesh_8upe0")
 
 [node name="tv" parent="." instance=ExtResource("13_worf3")]
-transform = Transform3D(-0.465273, 0, -0.554491, 0, 0.723837, 0, 0.554491, 0, -0.465273, 10.9873, -0.869406, 8.63884)
+transform = Transform3D(-0.465273, 0, -0.554491, 0, 0.723837, 0, 0.554491, 0, -0.465273, 9.69133, -0.74651, 6.8471)
